@@ -23,7 +23,7 @@ Here is your chance to Automatically send Personalised messages :)
 `` python send_greetings.py``
 1) This will start execution of filter contacts.
 2) To add a contact to your list
-    2.1)Enter the Personalised name with which you want to send the message
-    2.2)To ignore the contact, press enter
-    2.3)To use the given name, the one after -, press F and enter
-    2.4) to break through the list, Press X and enter.
+    1. Enter the Personalised name with which you want to send the message
+    2. To ignore the contact, press enter
+    3. To use the given name, the one after -, press F and enter
+    4. to break through the list, Press X and enter.
